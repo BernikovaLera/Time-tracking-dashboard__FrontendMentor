@@ -1,12 +1,13 @@
 # Frontend Mentor - Time tracking dashboard solution
 
+![](/design/desktop-preview.jpg)
+
 This is a solution to the [Time tracking dashboard challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/time-tracking-dashboard-UIQ7167Jw). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
 ## Table of contents
 
 - [Overview](#overview)
   - [The challenge](#the-challenge)
-  - [Screenshot](#screenshot)
   - [Built with](#built-with)
   - [Expected behaviour](#expected-behaviour)
 
@@ -32,10 +33,6 @@ Want some support on the challenge? [Join our Slack community](https://www.front
 ### Expected behaviour
 
 - The text for the previous period's time should change based on the active timeframe. For Daily, it should read "Yesterday" e.g "Yesterday - 2hrs". For Weekly, it should read "Last Week" e.g. "Last Week - 32hrs". For monthly, it should read "Last Month" e.g. "Last Month - 19hrs".
-
-### Screenshot
-
-![](/design/desktop-preview.jpg)
 
 
 ### Built with
